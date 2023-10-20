@@ -45,4 +45,5 @@ while 1:
             print("Internet Connection Issues!")
             break
         elif failSafe == 900:  # 900 Seconds == 15 Minutes 
+            print("Goodnight Sleepy head! Sweet Dreams <3") # Everybody needs a goodnight message.
             os.system("shutdown /s /t 1") # Command to shutdown computer. 
