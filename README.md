@@ -20,11 +20,3 @@ the best of both worlds. Just run this program, start your downloads and let the
 2. Run this program (Countdown will start but you have 15 minutes to start download or stop program)
 3. Queue your downloads on steam.
 4. Go to bed and sleep easy. (Sweet dreams.)
-
-
->██╗  ██╗███╗   ███╗ ██████╗ ██████╗ ███████╗
->██║ ██╔╝████╗ ████║██╔═══██╗██╔══██╗██╔════╝
->█████╔╝ ██╔████╔██║██║   ██║██║  ██║█████╗  
->██╔═██╗ ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  
->██║  ██╗██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗
->╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
