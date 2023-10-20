@@ -4,8 +4,8 @@ Shuts Down Computer after all ongoing steam downloads are completed.
 
 # The Problem.
 If you are like me you do not like to leave your computer on and running overnight, I try the make sure that it is off to make sure that it stays healthy and running well for as
-long as possible. I also enjoy playing games and prefer to install games overnight while I sleep so I do not have to worry about waiting on them. This problem helps to give you 
-the best of both worlds. Just run this program, start your downloads and let the program do the rest. 
+long as possible. I also enjoy playing games and prefer to install games overnight while I sleep so I do not have to worry about waiting on them. This program helps to give you 
+the best of both worlds. Just run this program, start your downloads and when they are complete the program will tuck your computer into bed and shut it down.
 
 # Features
 - Automatic Finding of the Steam Process.
